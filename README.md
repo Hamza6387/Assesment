@@ -30,7 +30,7 @@ It supports repeat containers, parent-child relationships, and expression-based 
 ## ⚙️ Setup Instructions
 
 1. Clone the repository: 
-git clone <repo-link>
+git clone (https://github.com/Hamza6387/Assesment.git)
 
 2. Install dependencies: 
 npm install
